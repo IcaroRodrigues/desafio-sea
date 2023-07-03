@@ -37,5 +37,5 @@ Rode os comandos em terminais diferentes, pois um é para rodar o projeto React 
 
 **Front-end:** React, Redux ( Gerenciar estados globais ), Styled-Components, ant design ( para inputs e switches )
 
-**Back-end:** server.json ( simular backend )
+**Back-end:** json-server ( simular backend )
 
