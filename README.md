@@ -14,7 +14,7 @@ Apos clonar o repositório entre na pasta do projeto:
   yarn install
 ```
 
-Caso esteja utilizando npm ou npx basta rodar o script para rodar as dependencias de acordo com seu Package Manager.
+Caso esteja utilizando npm ou npx basta rodar o script para instalar as dependências de acordo com seu Package Manager.
 
 ## Inicializar projeto
 
