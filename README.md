@@ -30,7 +30,7 @@ Rode os comandos em terminais diferentes, pois um é para rodar o projeto React 
   yarn server
 ```
 ## Formulário da aplicação
-- Apenas os campos **Nome**, **CPF**, **Cargo** e **Ativo** são necessários para salvar um novo funcionário no servidor. Todos os outros campos são apenas visuais.
+- Apenas os campos **Nome**, **CPF**, **Cargo** e **Ativo** são necessários para criar um novo funcionário no servidor. Todos os outros campos são apenas visuais.
 
 ## Funcionalidades
 - Botão switch **"A etapa está concluída?"** está funcionando mostrando etapa concluída nos passos do formulário.
