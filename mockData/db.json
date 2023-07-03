@@ -6,6 +6,13 @@
       "ativo": false,
       "Cargo": "Cargo 1",
       "id": 1
+    },
+    {
+      "name": "Icaro",
+      "CPF": "123.456.789.10",
+      "ativo": true,
+      "Cargo": "Cargo 1",
+      "id": 2
     }
   ]
 }
