@@ -44,7 +44,7 @@ Rode os comandos em terminais diferentes, pois um é para rodar o projeto React 
 - Máscaras para inputs como **CPF**, **RG**, **Data de nascimento**
 ## Tecnologias utilizadas
 
-**Front-end:** React, Redux ( Gerenciar estados globais ), Styled-Components, ant design ( para inputs e switches )
+**Front-end:** React, Redux ( Gerenciar estados globais ), Styled-Components, ant design ( para inputs e switches ), Axios ( fazer chamadas para o backend )
 
 **Back-end:** server.json ( simular backend )
 
