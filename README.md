@@ -35,6 +35,7 @@ Rode os comandos em terminais diferentes, pois um é para rodar o projeto React 
 ## Funcionalidades
 - Botão switch **"A etapa está concluída?"** está funcionando mostrando etapa concluída nos passos do formulário.
 - Ao clicar no botão **"Adicionar Funcionário"** é mostrado o componente de formulário de cadastro de funcionário.
+- Mostra o total de funcionários ativos e a quantidade de funcionários cadastrados no sistema.
 - Listar funcionários que estão ativos ou não, clicando no botão **"Ver apenas ativos"**.
 - Ao clicar no botão **"Limpar Filtros"**, todos os funcionários serão mostrados novamente.
 - Ao clicar nos botões da sidebar, indicam em qual página você está ( atualmente só mostra a página de formulário ).
