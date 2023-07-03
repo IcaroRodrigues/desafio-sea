@@ -1,5 +1,5 @@
-# Desafio SEA
 
+# Desafio SEA
 ## Como começar
 
 Clone o repositório:
@@ -29,6 +29,12 @@ Rode os comandos em terminais diferentes, pois um é para rodar o projeto React 
   Inicializar Backend:
   yarn server
 ```
+
+## Formulário da aplicação
+- Apenas os campos **Nome**, **CPF**, **Cargo** e **Ativo** são necessários para salvar um novo funcionário no servidor. Todos os outros campos são apenas visuais.
+
+
+
 ## Tecnologias utilizadas
 
 **Front-end:** React, Redux ( Gerenciar estados globais ), Styled-Components, ant design ( para inputs e switches )
