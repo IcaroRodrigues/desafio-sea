@@ -16,6 +16,8 @@ Apos clonar o repositório entre na pasta do projeto:
 
 Caso esteja utilizando npm ou npx basta rodar o script para rodar as dependencias de acordo com seu Package Manager.
 
+## Inicializar projeto
+
 Após essas etapas para rodar o projeto, basta rodar dois comandos:
 
 Rode os comandos em terminais diferentes, pois um é para rodar o projeto React com o localhost:5173 e o outro é para rodar o servidor simulado do backend na porta localhost:3000
