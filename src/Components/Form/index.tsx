@@ -35,7 +35,7 @@ export const Form = () => {
 
   const [employeeName, setEmployeeName] = useState('')
   const [employeeCPF, setEmployeeCPF] = useState('')
-  const [employeeAtivo, setEmployeeAtivo] = useState(false)
+  const [employeeAtivo, setEmployeeAtivo] = useState(true)
   const [employeeCargo, setEmployeeCargo] = useState('')
 
 
@@ -70,7 +70,7 @@ export const Form = () => {
       <FormContainer>
         <div >
           <h3>O trabalhador está ativo ou inativo?</h3>
-          <Switch checkedChildren="Ativo" unCheckedChildren="Inativo" style={{ width: '70px' }} onChange={value => setEmployeeAtivo(value)} />
+          <Switch checkedChildren="Ativo" unCheckedChildren="Inativo" style={{ width: '70px' }} onChange={value => setEmployeeAtivo(value)} checked={employeeAtivo}/>
         </div>
 
         <div className='employeeData'>
